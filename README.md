@@ -62,4 +62,3 @@ To enable efficient real-time inference on Raspberry Pi, the trained model was o
 
 ---
 
-## Project Structure
