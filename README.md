@@ -62,3 +62,9 @@ To enable efficient real-time inference on Raspberry Pi, the trained model was o
 
 ---
 
+## Authors
+   1. Mr. Saurabh Mishra
+   2. Mr. Subhayan Biswas
+   3. Mr. Rounak Sengupta
+
+**Institution:** St. Xavier's College (Autonomus), Kolkata
